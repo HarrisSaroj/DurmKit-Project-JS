@@ -12,6 +12,5 @@ https://harrissaroj.github.io/DurmKit-Project-JS/
 
 # Screenshot
 
-![DrumKitss](https://github.com/HarrisSaroj/DurmKit-Project-JS/assets/109414883/d11066b9-9ea4-4120-a542-eca3e06e6f58)
-
+![DrumKit](https://github.com/HarrisSaroj/DurmKit-Project-JS/assets/109414883/df54db3e-f8e8-40fb-8790-627129bc8a0f)
 
